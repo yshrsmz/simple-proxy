@@ -30,6 +30,8 @@ define( 'CSAJAX_DEBUG', false );
  */
 $valid_requests = array(
     // 'example.com'
+    'http://github.com',
+    'http://search.twitter.com'
 );
 
 /* * * STOP EDITING HERE UNLESS YOU KNOW WHAT YOU ARE DOING * * */
