@@ -1,5 +1,5 @@
 <?php
-
+header('Access-Control-Allow-Origin: *');
 /**
  * AJAX Cross Domain (PHP) Proxy 0.7
  *    by Iacovos Constantinou (http://www.iacons.net)
